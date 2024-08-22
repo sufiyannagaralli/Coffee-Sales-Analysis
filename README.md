@@ -1,5 +1,5 @@
 # Coffee-Sales-Analysis
-The main goal of this project was to create KPIs and maps based on timelines and columns to gain clear insights, helping us make more informed decisions.
+The main goal of this project was to create KPIs and maps based on timelines and columns to gain clear insights, helping us make more informed decisions. We also used MSSQL to cross-check the data for accuracy and consistency throughout the analysis.
 Here's the key questions I was interested in answering?
 What is the total sales analysis?
 How does total order analysis contribute to understanding customer behaviour?
